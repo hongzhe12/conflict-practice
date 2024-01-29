@@ -1,1 +1,2 @@
 "This is line added from branch A" 
+"This is line added from branch B" 
